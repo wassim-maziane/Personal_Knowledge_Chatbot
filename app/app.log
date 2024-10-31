@@ -1,0 +1,130 @@
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:3 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:3 changes detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $Hello
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:2 changes detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:3 changes detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $where is greenfields biotech located
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:3 changes detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:3 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:3 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/userdocs_collection/points/query "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, AI Answer: $It seems like you've entered only a dollar sign ($). Could you please provide more context or ask a question so I can better assist you? I'm here to help with any questions about GreenFields BioTech!
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:root:Created new session ID: 80ca8648-9eb1-414f-8f90-6d616517f29e
+INFO:watchfiles.main:3 changes detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $80ca8648-9eb1-414f-8f90-6d616517f29e, User Query: $Where is greenfields biotech located
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/userdocs_collection/points/query "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $80ca8648-9eb1-414f-8f90-6d616517f29e, AI Answer: $GreenFields BioTech is headquartered in Zurich, Switzerland.
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $80ca8648-9eb1-414f-8f90-6d616517f29e, User Query: $where did you say the company is headquartered in ?
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/userdocs_collection/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $80ca8648-9eb1-414f-8f90-6d616517f29e, AI Answer: $GreenFields BioTech is headquartered in Zurich, Switzerland.
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:3 changes detected
