@@ -1,0 +1,15 @@
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/userdocs_collection/points?wait=true "HTTP/1.1 200 OK"
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:2 changes detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:1 change detected
+INFO:watchfiles.main:2 changes detected
+INFO:watchfiles.main:1 change detected
+INFO:root:Session ID: $92c72354-aedc-4529-80df-9077f4f9a3fb, User Query: $
+INFO:watchfiles.main:1 change detected
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
